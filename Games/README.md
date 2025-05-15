@@ -10,7 +10,7 @@ Tento projekt obsahuje tři jednoduché hry vytvořené v Javě pomocí knihovny
 ##  Spuštění projektu
 
 ### IntelliJ IDEA (doporučeno):
-1. Otevři složku `Games/` jako Maven projekt.
+1. Otevři složku Games/src/main/java/org/example
 2. Najdi soubor `Main.java`
 3. Spusť program – zobrazí se grafické menu pro výběr hry.
 4. Vyber hru
